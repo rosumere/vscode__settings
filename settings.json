@@ -1,0 +1,28 @@
+{
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "window.zoomLevel": -1,
+  "editor.fontWeight": "500",
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "explorer.confirmDelete": false,
+  "emmet.triggerExpansionOnTab": true,
+  "workbench.colorTheme": "Mariana Nord",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": false,
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[css]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[javascript]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+  }
+}
