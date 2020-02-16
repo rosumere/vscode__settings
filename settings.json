@@ -11,8 +11,6 @@
   "emmet.triggerExpansionOnTab": true,
   "workbench.colorTheme": "Mariana Nord",
   "workbench.iconTheme": "vscode-icons",
-  "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true,
   "editor.formatOnSave": false,
   "explorer.confirmDragAndDrop": false,
   "liveServer.settings.donotShowInfoMsg": true,
